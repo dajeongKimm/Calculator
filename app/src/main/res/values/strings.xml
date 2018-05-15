@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="btnBack">Back</string>
+    <string name="btnCalc">Calc</string>
+    <string name="btnCancle">C</string>
+    <string name="textPreview">Preview</string>
+</resources>
